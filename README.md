@@ -1,8 +1,7 @@
-##BOT JIINF
+# BOT JIINF
 
 
-#Utilizacao
-O bot vai clicar no primeiro colocado, que somos nós :)
+# Utilizacao
 
 Após baixar, utilize a variável de ambiente:
 
