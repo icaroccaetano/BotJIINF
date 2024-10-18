@@ -14,10 +14,6 @@ venv/Scripts/activate
 ````
 
 ```
-pip get
-````
-
-```
 venv/Scripts/activate
 ````
 
